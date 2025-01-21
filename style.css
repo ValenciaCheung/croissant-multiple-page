@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    color: aquamarine;
+}
+footer a {
+    color: rgb(196, 73, 16);
+}
+.croissant-image {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
